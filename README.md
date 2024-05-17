@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+    <img width="300px" height="auto" src="https://github.com/cwchilvers/cwchilvers/assets/59628271/cbc17b35-4f66-47bd-ad86-6d70010ac28a" alt="Chandler Chilvers">
+</div>
 
-<!--
-**cwchilvers/cwchilvers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Client Projects 💻
+* [**Atara Ara** (Official Website)](https://atara-ara.com)
+* [**Southern California Deaconess Association** (Official Website)](https://socaldeaconess.com)
 
-Here are some ideas to get you started:
+## Deployed Web Apps 💿
+[**apps.cwchilvers.io**](https://apps.cwchilvers.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Note:** The website is self-hosted on a server at home and may experience slower load times or downtime.
+
+## Music Songwriting/Production 🎵
+* [**Atara Ara** (Spotify)](https://open.spotify.com/artist/14OyPLu62THKH6fGLtjowq?si=aTJleoNuSNWcyskdHsbveA)
+
+## Music Composition for Film & Video Games 🎵
+* [**Bandcamp**](https://chandlerchilvers.bandcamp.com/)
