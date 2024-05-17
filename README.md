@@ -14,5 +14,5 @@
 ## Music Songwriting/Production 🎵
 * [**Atara Ara** (Spotify)](https://open.spotify.com/artist/14OyPLu62THKH6fGLtjowq?si=aTJleoNuSNWcyskdHsbveA)
 
-## Music Composition for Film & Video Games 🎵
+## Music Composition for Film & Video Games 🎞️
 * [**Bandcamp**](https://chandlerchilvers.bandcamp.com/)
