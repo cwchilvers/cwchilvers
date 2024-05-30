@@ -9,7 +9,7 @@
 ## Deployed Web Apps 💿
 [**apps.cwchilvers.io**](https://apps.cwchilvers.io/)
 
-**Note:** The website is self-hosted on a server at home and may experience slower load times or downtime.
+**Note:** This website is self-hosted on a server at home and may experience slower load times or downtime.
 
 ## Music Songwriting/Production 🎵
 * [**Atara Ara** (Spotify)](https://open.spotify.com/artist/14OyPLu62THKH6fGLtjowq?si=aTJleoNuSNWcyskdHsbveA)
