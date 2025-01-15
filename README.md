@@ -5,6 +5,8 @@
 ## Client Projects 💻
 * [**Atara Ara** (Official Website)](https://atara-ara.com)
 * [**Southern California Deaconess Association** (Official Website)](https://socaldeaconess.com)
+* [**ArtSocial 805** (Official Website)]([https://socaldeaconess.com](https://www.artsocial805.com/))
+* [**ACS Memorial Scholarship** (Official Website)]([https://socaldeaconess.com](https://www.acsmemorialscholarship.org/))
 
 ## Deployed Web Apps 💿
 [**apps.cwchilvers.io**](https://apps.cwchilvers.io/)
