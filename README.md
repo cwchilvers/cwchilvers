@@ -20,3 +20,4 @@
 
 ## Music Composition for Film & Video Games 🎞️
 * [**Bandcamp**](https://chandlerchilvers.bandcamp.com/)
+* [**Spotify**](https://open.spotify.com/artist/2zJLWFiuRk5DiGCOugl1mQ?si=19xZArbdTIWFqRqYk1whmQ)
