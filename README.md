@@ -7,7 +7,7 @@
 * [**Atara Ara**](https://atara-ara.com)
 * [**Southern California Deaconess Association**](https://socaldeaconess.com)
 ### Wordpress
-* [**ArtSocial 805** (Official Website)](https://www.artsocial805.com/)
+* [**ArtSocial 805**](https://www.artsocial805.com/)
 * [**ACS Memorial Scholarship**](https://www.acsmemorialscholarship.org/)
 
 ## Deployed Web Apps 💿
